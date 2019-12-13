@@ -1,994 +1,801 @@
 {
-    "categories": [{
-                   "category_id": "3000",
-                   "category_name": "Celebrities",
-                   "category_thumbnail": "3000.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_7/master/draw_famous_people/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": [{
-                              "anime_id": "22",
-                              "anime_name": "Adele",
-                              "anime_step":20
+	"categories":[
+                  {
+                    "category_id":"1100",
+                    "category_name":"Hearts",
+                    "category_thumbnail":"1100.png",
+                    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/crazy_data_3/master/draw_heart/",
+                    "file_extension":"png",
+                    "is_video":"false",
+                    "animes":[
+                              {
+                              "anime_id":"1",
+                              "anime_name":"Heart",
+                              "anime_step":11
                               },
                               {
-                              "anime_id": "28",
-                              "anime_name": "Akon",
-                              "anime_step":18
-                              },
-                              {
-                              "anime_id": "38",
-                              "anime_name": "Al Pacino",
-                              "anime_step":20
-                              },
-                              {
-                              "anime_id": "31",
-                              "anime_name": "Angelina Jolie",
-                              "anime_step":20
-                              },
-                              {
-                              "anime_id": "19",
-                              "anime_name": "Angelina Jolie",
-                              "anime_step":18
-                              },
-                              {
-                              "anime_id": "17",
-                              "anime_name": "Avril Lavigne",
-                              "anime_step":20
-                              },
-                              {
-                              "anime_id": "24",
-                              "anime_name": "Barack Obama",
+                              "anime_id":"2",
+                              "anime_name":"Heart with balloons",
                               "anime_step":19
                               },
                               {
-                              "anime_id": "11",
-                              "anime_name": "Beyonce",
-                              "anime_step":19
-                              },
-                              {
-                              "anime_id": "26",
-                              "anime_name": "Bob Marley",
-                              "anime_step":21
-                              },
-                              {
-                              "anime_id": "21",
-                              "anime_name": "Brad Pitt",
-                              "anime_step":19
-                              },
-                              {
-                              "anime_id": "23",
-                              "anime_name": "Cameron Diaz",
-                              "anime_step":24
-                              },
-                              {
-                              "anime_id": "34",
-                              "anime_name": "Channing Tatum",
-                              "anime_step":13
-                              },
-                              {
-                              "anime_id": "3",
-                              "anime_name": "Cristiano Ronaldo",
-                              "anime_step":18
-                              },
-                              {
-                              "anime_id": "48",
-                              "anime_name": "Elvis Presley",
+                              "anime_id":"3",
+                              "anime_name":"Heart with arrow",
                               "anime_step":12
                               },
                               {
-                              "anime_id": "6",
-                              "anime_name": "Eminem",
-                              "anime_step":16
-                              },
-                              {
-                              "anime_id": "208",
-                              "anime_name": "Enrique Iglesias",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id": "40",
-                              "anime_name": "Hugh Laurie",
-                              "anime_step":16
-                              },
-                              {
-                              "anime_id": "46",
-                              "anime_name": "Jack Nicholson",
+                              "anime_id":"4",
+                              "anime_name":"Heart with patch",
                               "anime_step":14
                               },
                               {
-                              "anime_id": "35",
-                              "anime_name": "Jet Li",
+                              "anime_id":"5",
+                              "anime_name":"Broken Heart",
                               "anime_step":13
                               },
                               {
-                              "anime_id": "45",
-                              "anime_name": "Jodie Foster",
-                              "anime_step":15
-                              },
-                              {
-                              "anime_id": "4",
-                              "anime_name": "Johnny Depp",
-                              "anime_step":28
-                              },
-                              {
-                              "anime_id": "8",
-                              "anime_name": "Justin Bieber",
+                              "anime_id":"6",
+                              "anime_name":"Hearts in Love",
                               "anime_step":20
                               },
                               {
-                              "anime_id": "27",
-                              "anime_name": "Justin Timberlake",
-                              "anime_step":20
+                              "anime_id":"7",
+                              "anime_name":"Kawaii Heart",
+                              "anime_step":11
                               },
                               {
-                              "anime_id": "1",
-                              "anime_name": "Katy Perry",
-                              "anime_step":18
+                              "anime_id":"8",
+                              "anime_name":"Two Hearts",
+                              "anime_step":14
                               },
                               {
-                              "anime_id": "36",
-                              "anime_name": "Keanu Reeves",
-                              "anime_step":13
-                              },
-                              {
-                              "anime_id": "39",
-                              "anime_name": "Kim Basinger",
-                              "anime_step":21
-                              },
-                              {
-                              "anime_id": "7",
-                              "anime_name": "Lady Gaga",
+                              "anime_id":"9",
+                              "anime_name":"Rose Heart",
                               "anime_step":17
                               },
                               {
-                              "anime_id": "210",
-                              "anime_name": "Lana Del Rey",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id": "9",
-                              "anime_name": "Leonardo Di Caprio",
-                              "anime_step":22
-                              },
-                              {
-                              "anime_id": "13",
-                              "anime_name": "Lionel Messi",
-                              "anime_step":23
-                              },
-                              {
-                              "anime_id": "12",
-                              "anime_name": "Madonna",
-                              "anime_step":21
-                              },
-                              {
-                              "anime_id": "10",
-                              "anime_name": "Marilyn Manson",
-                              "anime_step":21
-                              },
-                              {
-                              "anime_id": "30",
-                              "anime_name": "Megan Fox",
-                              "anime_step":19
-                              },
-                              {
-                              "anime_id": "43",
-                              "anime_name": "Meryl Streep",
-                              "anime_step":14
-                              },
-                              {
-                              "anime_id": "5",
-                              "anime_name": "Michael Jackson",
-                              "anime_step":21
-                              },
-                              {
-                              "anime_id": "212",
-                              "anime_name": "Mila Kunis",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id": "25",
-                              "anime_name": "Miley Cyrus",
-                              "anime_step":20
-                              },
-                              {
-                              "anime_id": "32",
-                              "anime_name": "Nicolas Cage",
-                              "anime_step":13
-                              },
-                              {
-                              "anime_id": "33",
-                              "anime_name": "Patrick Dempsey",
-                              "anime_step":15
-                              },
-                              {
-                              "anime_id": "16",
-                              "anime_name": "Rihanna",
-                              "anime_step":20
-                              },
-                              {
-                              "anime_id": "47",
-                              "anime_name": "Robert DeNiro",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id": "20",
-                              "anime_name": "Robert Pattinson",
-                              "anime_step":22
-                              },
-                              {
-                              "anime_id": "14",
-                              "anime_name": "Roger Federer",
-                              "anime_step":25
-                              },
-                              {
-                              "anime_id": "44",
-                              "anime_name": "Sandra Bullock",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id": "37",
-                              "anime_name": "Sean Connery",
-                              "anime_step":15
-                              },
-                              {
-                              "anime_id": "29",
-                              "anime_name": "Selena Gomez",
+                              "anime_id":"10",
+                              "anime_name":"Tatto Heart",
                               "anime_step":18
                               },
                               {
-                              "anime_id": "15",
-                              "anime_name": "Shakira",
-                              "anime_step":22
+                              "anime_id":"11",
+                              "anime_name":"Heart and Swallow",
+                              "anime_step":19
                               },
                               {
-                              "anime_id": "214",
-                              "anime_name": "Snoop Dogg",
-                              "anime_step":10
+                              "anime_id":"12",
+                              "anime_name":"Hand Heart",
+                              "anime_step":14
                               },
                               {
-                              "anime_id": "42",
-                              "anime_name": "Tom Hanks",
-                              "anime_step":16
+                              "anime_id":"13",
+                              "anime_name":"Tattoo Rose",
+                              "anime_step":17
                               },
                               {
-                              "anime_id": "41",
-                              "anime_name": "Tom Hiddleston",
-                              "anime_step":16
+                              "anime_id":"14",
+                              "anime_name":"Couple",
+                              "anime_step":15
                               },
                               {
-                              "anime_id": "49",
-                              "anime_name": "Tupac Shakur",
-                              "anime_step":16
+                              "anime_id":"15",
+                              "anime_name":"Angel Wings",
+                              "anime_step":14
                               },
                               {
-                              "anime_id": "50",
-                              "anime_name": "Whitney Houston",
+                              "anime_id":"16",
+                              "anime_name":"I Need You",
+                              "anime_step":15
+                              },
+                              {
+                              "anime_id":"17",
+                              "anime_name":"Swans",
                               "anime_step":13
                               },
                               {
-                              "anime_id": "2",
-                              "anime_name": "Will Smith",
-                              "anime_step":21
-                              }
-                              ]
-                   },
-                   {
-                   "category_id": "3001",
-                   "category_name": "Anime Celebrities",
-                   "category_thumbnail": "3001.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_7/master/draw_famous_people/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": [{
-                              "anime_id": "1",
-                              "anime_name": "Adam Levine",
-                              "anime_step":10
+                              "anime_id":"18",
+                              "anime_name":"Realistic Heart",
+                              "anime_step":14
                               },
                               {
-                              "anime_id": "10",
-                              "anime_name": "Angelina Jolie",
-                              "anime_step":10
+                              "anime_id":"19",
+                              "anime_name":"Heart with Wings",
+                              "anime_step":17
                               },
                               {
-                              "anime_id": "2",
-                              "anime_name": "Beyonce",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id": "7",
-                              "anime_name": "Brad Pitt",
+                              "anime_id":"20",
+                              "anime_name":"Teddy Bear",
                               "anime_step":13
                               },
                               {
-                              "anime_id": "12",
-                              "anime_name": "Emma Watson",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id": "15",
-                              "anime_name": "Johnny Depp",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id": "9",
-                              "anime_name": "Justin Bieber",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id": "6",
-                              "anime_name": "Keira Knightley",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id": "4",
-                              "anime_name": "Lana Del Rei",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id": "3",
-                              "anime_name": "Leonardo Di Caprio",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id": "11",
-                              "anime_name": "Michael Jackson",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id": "13",
-                              "anime_name": "Miley Cyrus",
+                              "anime_id":"21",
+                              "anime_name":"Heart #1",
                               "anime_step":9
                               },
                               {
-                              "anime_id": "14",
-                              "anime_name": "Scarlett Johansson",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id": "8",
-                              "anime_name": "Selena Gomez",
+                              "anime_id":"22",
+                              "anime_name":"Heart #2",
                               "anime_step":10
                               },
                               {
-                              "anime_id": "5",
-                              "anime_name": "Taylor Swift",
+                              "anime_id":"23",
+                              "anime_name":"Heart #3",
                               "anime_step":10
-                              }
-                              ]
-                   },{
-                   "category_id": "3002",
-                   "category_name": "Famous Actors and Actresses",
-                   "category_thumbnail": "3002.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_7/master/draw_famous_people/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": [{
-                              "anime_id": "30",
-                              "anime_name": "Adrianne Palicki",
-                              "anime_step":18
                               },
                               {
-                              "anime_id": "37",
-                              "anime_name": "Al Pacino",
-                              "anime_step":20
+                              "anime_id":"24",
+                              "anime_name":"Heart #4",
+                              "anime_step":10
                               },
                               {
-                              "anime_id": "20",
-                              "anime_name": "Amy Adams",
-                              "anime_step":25
+                              "anime_id":"25",
+                              "anime_name":"Heart #5",
+                              "anime_step":11
                               },
                               {
-                              "anime_id": "36",
-                              "anime_name": "Angelina Jolie",
-                              "anime_step":19
+                              "anime_id":"26",
+                              "anime_name":"Heart #6",
+                              "anime_step":10
                               },
                               {
-                              "anime_id": "31",
-                              "anime_name": "Angelina Jolie",
-                              "anime_step":18
+                              "anime_id":"27",
+                              "anime_name":"Heart #7",
+                              "anime_step":16
                               },
                               {
-                              "anime_id": "10",
-                              "anime_name": "Ashton Kutcher",
-                              "anime_step":18
+                              "anime_id":"28",
+                              "anime_name":"Heart #8",
+                              "anime_step":14
                               },
                               {
-                              "anime_id": "33",
-                              "anime_name": "Brad Pitt",
-                              "anime_step":19
-                              },
-                              {
-                              "anime_id": "34",
-                              "anime_name": "Cameron Diaz",
-                              "anime_step":24
-                              },
-                              {
-                              "anime_id": "219",
-                              "anime_name": "Cara Delevigne",
+                              "anime_id":"29",
+                              "anime_name":"Heart #9",
                               "anime_step":7
                               },
                               {
-                              "anime_id": "23",
-                              "anime_name": "Channing Tatum",
+                              "anime_id":"30",
+                              "anime_name":"Heart #10",
                               "anime_step":13
                               },
                               {
-                              "anime_id": "108",
-                              "anime_name": "Charles Hunnam",
+                              "anime_id":"31",
+                              "anime_name":"Heart #11",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"32",
+                              "anime_name":"Heart #12",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"33",
+                              "anime_name":"Heart #13",
                               "anime_step":11
                               },
                               {
-                              "anime_id": "11",
-                              "anime_name": "Charlize Theron",
-                              "anime_step":22
+                              "anime_id":"34",
+                              "anime_name":"Heart #14",
+                              "anime_step":9
                               },
                               {
-                              "anime_id": "104",
-                              "anime_name": "Cory Monteith",
+                              "anime_id":"35",
+                              "anime_name":"Heart #15",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"36",
+                              "anime_name":"Heart #16",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"37",
+                              "anime_name":"Heart #17",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id":"38",
+                              "anime_name":"Heart #18",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id":"39",
+                              "anime_name":"Heart #19",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"40",
+                              "anime_name":"Heart #20",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"41",
+                              "anime_name":"Boy and Girl",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"42",
+                              "anime_name":"Heart",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"43",
+                              "anime_name":"Pigeons",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"44",
+                              "anime_name":"Bear",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"45",
+                              "anime_name":"Love",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id":"46",
+                              "anime_name":"Cat",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"47",
+                              "anime_name":"Cupid",
                               "anime_step":12
                               },
                               {
-                              "anime_id": "13",
-                              "anime_name": "Halle Berry",
-                              "anime_step":22
+                              "anime_id":"48",
+                              "anime_name":"I Love You",
+                              "anime_step":7
                               },
                               {
-                              "anime_id": "16",
-                              "anime_name": "Hilary Swank",
-                              "anime_step":23
+                              "anime_id":"49",
+                              "anime_name":"Lovers",
+                              "anime_step":7
                               },
                               {
-                              "anime_id": "39",
-                              "anime_name": "Hugh Laurie",
-                              "anime_step":18
+                              "anime_id":"50",
+                              "anime_name":"Sweetheart",
+                              "anime_step":10
                               },
                               {
-                              "anime_id": "45",
-                              "anime_name": "Jack Nicholson",
-                              "anime_step":14
+                              "anime_id":"51",
+                              "anime_name":"Love #1",
+                              "anime_step":6
                               },
                               {
-                              "anime_id": "110",
-                              "anime_name": "Jared Leto",
-                              "anime_step":14
+                              "anime_id":"52",
+                              "anime_name":"Love #2",
+                              "anime_step":6
                               },
                               {
-                              "anime_id": "6",
-                              "anime_name": "Jason Segel",
-                              "anime_step":18
+                              "anime_id":"53",
+                              "anime_name":"Love #3",
+                              "anime_step":5
                               },
                               {
-                              "anime_id": "15",
-                              "anime_name": "Jennifer Aniston",
-                              "anime_step":25
+                              "anime_id":"54",
+                              "anime_name":"Love #4",
+                              "anime_step":6
                               },
                               {
-                              "anime_id": "105",
-                              "anime_name": "Jennifer Lawrence",
-                              "anime_step":11
+                              "anime_id":"55",
+                              "anime_name":"Love #5",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"56",
+                              "anime_name":"Love #6",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id":"57",
+                              "anime_name":"Love #7",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"58",
+                              "anime_name":"Love #8",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"59",
+                              "anime_name":"Love #9",
+                              "anime_step":6
+                              }
+                        ]
+                    },
+                  {
+                   "category_id": "189",
+                   "category_name": "Smilies",
+                   "category_thumbnail": "189.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip05/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Blushing",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Cheeky",
+                              "anime_step":7
                               },
                               {
                               "anime_id": "3",
-                              "anime_name": "Jensen Ackles",
-                              "anime_step":22
+                              "anime_name": "Confused",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Crying",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Depressed",
+                              "anime_step":5
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Devil",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Evil",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Happy",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Laugh",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Pleased",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Puking",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "ROFL",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Sad",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Shocked",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Smile",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "Smirking",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "17",
+                              "anime_name": "Speechles",
+                              "anime_step":6
                               },
                               {
                               "anime_id": "18",
-                              "anime_name": "Jessica Alba",
-                              "anime_step":18
-                              },
-                              {
-                              "anime_id": "24",
-                              "anime_name": "Jet Li",
-                              "anime_step":13
-                              },
-                              {
-                              "anime_id": "5",
-                              "anime_name": "Jim Parsons",
-                              "anime_step":17
-                              },
-                              {
-                              "anime_id": "44",
-                              "anime_name": "Jodie Foster",
-                              "anime_step":15
-                              },
-                              {
-                              "anime_id": "28",
-                              "anime_name": "Johnny Depp",
-                              "anime_step":28
-                              },
-                              {
-                              "anime_id": "8",
-                              "anime_name": "Jon Cryer",
-                              "anime_step":28
-                              },
-                              {
-                              "anime_id": "14",
-                              "anime_name": "Julia Roberts",
-                              "anime_step":18
-                              },
-                              {
-                              "anime_id": "17",
-                              "anime_name": "Kate Winslet",
-                              "anime_step":19
-                              },
-                              {
-                              "anime_id": "25",
-                              "anime_name": "Keanu Reeves",
-                              "anime_step":13
-                              },
-                              {
-                              "anime_id": "38",
-                              "anime_name": "Kim Basinger",
-                              "anime_step":21
-                              },
-                              {
-                              "anime_id": "109",
-                              "anime_name": "Kristen Stewart",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id": "29",
-                              "anime_name": "Leonardo Di Caprio",
-                              "anime_step":22
-                              },
-                              {
-                              "anime_id": "35",
-                              "anime_name": "Megan Fox",
-                              "anime_step":24
-                              },
-                              {
-                              "anime_id": "42",
-                              "anime_name": "Meryl Streep",
-                              "anime_step":14
-                              },
-                              {
-                              "anime_id": "212",
-                              "anime_name": "Mila Kunis",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id": "101",
-                              "anime_name": "Miley Cyrus",
-                              "anime_step":14
-                              },
-                              {
-                              "anime_id": "218",
-                              "anime_name": "Miranda Kerr",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id": "1",
-                              "anime_name": "Neil Patrick Harris",
-                              "anime_step":24
-                              },
-                              {
-                              "anime_id": "21",
-                              "anime_name": "Nicolas Cage",
-                              "anime_step":13
-                              },
-                              {
-                              "anime_id": "12",
-                              "anime_name": "Nicole Kidman",
-                              "anime_step":19
-                              },
-                              {
-                              "anime_id": "7",
-                              "anime_name": "Patrick Dempsey",
-                              "anime_step":21
-                              },
-                              {
-                              "anime_id": "22",
-                              "anime_name": "Patrick Dempsey",
-                              "anime_step":15
-                              },
-                              {
-                              "anime_id": "103",
-                              "anime_name": "Paul Walker",
-                              "anime_step":13
-                              },
-                              {
-                              "anime_id": "46",
-                              "anime_name": "Robert DeNiro",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id": "32",
-                              "anime_name": "Robert Pattinson",
-                              "anime_step":22
-                              },
-                              {
-                              "anime_id": "213",
-                              "anime_name": "Ryan Gosling",
-                              "anime_step":8
+                              "anime_name": "Surprised",
+                              "anime_step":6
                               },
                               {
                               "anime_id": "19",
-                              "anime_name": "Salma Hayek",
-                              "anime_step":18
-                              },
-                              {
-                              "anime_id": "43",
-                              "anime_name": "Sandra Bullock",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id": "26",
-                              "anime_name": "Sean Connery",
-                              "anime_step":15
-                              },
-                              {
-                              "anime_id": "2",
-                              "anime_name": "Stephen Amell",
-                              "anime_step":29
-                              },
-                              {
-                              "anime_id": "9",
-                              "anime_name": "Tim Allen",
-                              "anime_step":19
-                              },
-                              {
-                              "anime_id": "41",
-                              "anime_name": "Tom Hanks",
-                              "anime_step":16
-                              },
-                              {
-                              "anime_id": "40",
-                              "anime_name": "Tom Hiddleston",
-                              "anime_step":16
-                              },
-                              {
-                              "anime_id": "4",
-                              "anime_name": "Wentworth Miller",
-                              "anime_step":22
-                              },
-                              {
-                              "anime_id": "27",
-                              "anime_name": "Will Smith",
-                              "anime_step":21
-                              },
-                              {
-                              "anime_id": "217",
-                              "anime_name": "Zombie Boy",
-                              "anime_step":9
-                              }
-                              ]
-                   },{
-                   "category_id": "3003",
-                   "category_name": "Famous Singers",
-                   "category_thumbnail": "3003.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_7/master/draw_famous_people/",
-                   "file_extension": "png",
-                   "is_video": "false",
-                   "animes": [{
-                              "anime_id": "108",
-                              "anime_name": "Adam Lambert",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id": "1",
-                              "anime_name": "Adam Levine",
-                              "anime_step":32
-                              },
-                              {
-                              "anime_id": "29",
-                              "anime_name": "Adele",
-                              "anime_step":20
-                              },
-                              {
-                              "anime_id": "33",
-                              "anime_name": "Akon",
-                              "anime_step":18
-                              },
-                              {
-                              "anime_id": "28",
-                              "anime_name": "Avril Lavigne",
-                              "anime_step":20
-                              },
-                              {
-                              "anime_id": "25",
-                              "anime_name": "Beyonce",
-                              "anime_step":19
-                              },
-                              {
-                              "anime_id": "31",
-                              "anime_name": "Bob Marley",
-                              "anime_step":21
-                              },
-                              {
-                              "anime_id": "35",
-                              "anime_name": "Bruno Mars",
-                              "anime_step":14
-                              },
-                              {
-                              "anime_id": "112",
-                              "anime_name": "Candice Glover",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id": "10",
-                              "anime_name": "Carly Rae Jepsen",
-                              "anime_step":19
-                              },
-                              {
-                              "anime_id": "18",
-                              "anime_name": "Demi Lovato",
-                              "anime_step":20
-                              },
-                              {
-                              "anime_id": "34",
-                              "anime_name": "Elvis Presley",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id": "111",
-                              "anime_name": "Emeli Sande",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id": "22",
-                              "anime_name": "Eminem",
-                              "anime_step":16
-                              },
-                              {
-                              "anime_id": "208",
-                              "anime_name": "Enrique Iglesias",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id": "8",
-                              "anime_name": "Gotye",
-                              "anime_step":17
-                              },
-                              {
-                              "anime_id": "110",
-                              "anime_name": "Jared Leto",
-                              "anime_step":14
-                              },
-                              {
-                              "anime_id": "16",
-                              "anime_name": "Juan Magan",
-                              "anime_step":23
-                              },
-                              {
-                              "anime_id": "13",
-                              "anime_name": "Justin Bieber",
-                              "anime_step":20
-                              },
-                              {
-                              "anime_id": "32",
-                              "anime_name": "Justin Timberlake",
-                              "anime_step":20
-                              },
-                              {
-                              "anime_id": "4",
-                              "anime_name": "Kanye West",
-                              "anime_step":21
-                              },
-                              {
-                              "anime_id": "19",
-                              "anime_name": "Katy Perry",
-                              "anime_step":18
-                              },
-                              {
-                              "anime_id": "36",
-                              "anime_name": "Kesha",
-                              "anime_step":12
-                              },
-                              {
-                              "anime_id": "23",
-                              "anime_name": "Lady Gaga",
-                              "anime_step":17
-                              },
-                              {
-                              "anime_id": "210",
-                              "anime_name": "Lana Del Rey",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id": "15",
-                              "anime_name": "Lil Wayne",
-                              "anime_step":18
-                              },
-                              {
-                              "anime_id": "211",
-                              "anime_name": "Lorde",
-                              "anime_step":7
-                              },
-                              {
-                              "anime_id": "26",
-                              "anime_name": "Madonna",
-                              "anime_step":22
-                              },
-                              {
-                              "anime_id": "24",
-                              "anime_name": "Marilyn Manson",
-                              "anime_step":21
-                              },
-                              {
-                              "anime_id": "2",
-                              "anime_name": "Max George",
-                              "anime_step":15
-                              },
-                              {
-                              "anime_id": "17",
-                              "anime_name": "Melendi",
-                              "anime_step":13
-                              },
-                              {
-                              "anime_id": "21",
-                              "anime_name": "Michael Jackson",
-                              "anime_step":19
-                              },
-                              {
-                              "anime_id": "101",
-                              "anime_name": "Miley Cyrus",
-                              "anime_step":14
-                              },
-                              {
-                              "anime_id": "30",
-                              "anime_name": "Miley Cyrus",
-                              "anime_step":20
-                              },
-                              {
-                              "anime_id": "9",
-                              "anime_name": "Nate Ruess",
-                              "anime_step":17
-                              },
-                              {
-                              "anime_id": "6",
-                              "anime_name": "Nicki Minaj",
-                              "anime_step":15
-                              },
-                              {
-                              "anime_id": "14",
-                              "anime_name": "Pink",
-                              "anime_step":19
-                              },
-                              {
-                              "anime_id": "3",
-                              "anime_name": "PSY",
-                              "anime_step":21
-                              },
-                              {
-                              "anime_id": "12",
-                              "anime_name": "Rihanna",
-                              "anime_step":20
-                              },
-                              {
-                              "anime_id": "11",
-                              "anime_name": "Robin Thicke",
-                              "anime_step":17
+                              "anime_name": "The Drinker",
+                              "anime_step":8
                               },
                               {
                               "anime_id": "20",
-                              "anime_name": "Selena Gomez",
-                              "anime_step":18
-                              },
-                              {
-                              "anime_id": "27",
-                              "anime_name": "Shakira",
-                              "anime_step":22
-                              },
-                              {
-                              "anime_id": "214",
-                              "anime_name": "Snoop Dogg",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id": "215",
-                              "anime_name": "Steven Tyler",
-                              "anime_step":9
-                              },
-                              {
-                              "anime_id": "216",
-                              "anime_name": "Taylor Momsen",
+                              "anime_name": "Tired",
                               "anime_step":7
                               },
                               {
-                              "anime_id": "5",
-                              "anime_name": "Taylor Swift",
-                              "anime_step":15
+                              "anime_id": "21",
+                              "anime_name": "Unhappy",
+                              "anime_step":6
                               },
                               {
-                              "anime_id": "37",
-                              "anime_name": "Tupac Shakur",
-                              "anime_step":16
+                              "anime_id": "22",
+                              "anime_name": "Wondering",
+                              "anime_step":6
                               },
                               {
-                              "anime_id": "38",
-                              "anime_name": "Whitney Houston",
-                              "anime_step":13
-                              },
-                              {
-                              "anime_id": "7",
-                              "anime_name": "Zayn Malik",
-                              "anime_step":16
+                              "anime_id": "23",
+                              "anime_name": "WOW",
+                              "anime_step":6
                               }
                               ]
                    },{
-                   "category_id": "3004",
-                   "category_name": "Super Models",
-                   "category_thumbnail": "3004.png",
-                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_7/master/draw_famous_people/",
+                   "category_id": "286",
+                   "category_name": "Emotions",
+                   "category_thumbnail": "286.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip05/master/",
                    "file_extension": "png",
-                   "is_video": "false",
                    "animes": [{
-                              "anime_id": "9",
-                              "anime_name": "Adriana Lima",
+                              "anime_id": "1",
+                              "anime_name": "Proud",
                               "anime_step":9
                               },
                               {
-                              "anime_id": "11",
-                              "anime_name": "Alessandra Abrosio",
-                              "anime_step":14
-                              },
-                              {
-                              "anime_id": "14",
-                              "anime_name": "Behati Prinsloo",
-                              "anime_step":17
-                              },
-                              {
-                              "anime_id": "1",
-                              "anime_name": "Candice",
-                              "anime_step":14
-                              },
-                              {
                               "anime_id": "2",
-                              "anime_name": "Candice Swanepoel",
-                              "anime_step":10
+                              "anime_name": "Cute",
+                              "anime_step":9
                               },
                               {
                               "anime_id": "3",
-                              "anime_name": "Doutzen Kroes",
-                              "anime_step":10
-                              },
-                              {
-                              "anime_id": "5",
-                              "anime_name": "Iza Goulart",
-                              "anime_step":11
-                              },
-                              {
-                              "anime_id": "13",
-                              "anime_name": "Kara",
-                              "anime_step":14
-                              },
-                              {
-                              "anime_id": "7",
-                              "anime_name": "Kara Delevigne",
+                              "anime_name": "Snob",
                               "anime_step":9
                               },
                               {
                               "anime_id": "4",
-                              "anime_name": "Karlie Kloss",
+                              "anime_name": "Brat",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Evil",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Sneeze",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Sour",
                               "anime_step":9
                               },
                               {
                               "anime_id": "8",
-                              "anime_name": "Kate Moss",
-                              "anime_step":8
+                              "anime_name": "Talking",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Shouting",
+                              "anime_step":9
                               },
                               {
                               "anime_id": "10",
-                              "anime_name": "Lilly Aldridge",
-                              "anime_step":8
+                              "anime_name": "Laughing",
+                              "anime_step":9
                               },
                               {
-                              "anime_id": "6",
-                              "anime_name": "Lindsay Ellingson",
-                              "anime_step":8
-                              },
-                              {
-                              "anime_id": "15",
-                              "anime_name": "Miranda",
-                              "anime_step":19
+                              "anime_id": "11",
+                              "anime_name": "Excited",
+                              "anime_step":9
                               },
                               {
                               "anime_id": "12",
-                              "anime_name": "Miranda Kerr",
-                              "anime_step":10
+                              "anime_name": "Twitterpated",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "Smile",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Fake Smile",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Wink",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "Asleep",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "17",
+                              "anime_name": "Shut Tight",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "18",
+                              "anime_name": "Kiss",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "19",
+                              "anime_name": "Scared",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "20",
+                              "anime_name": "Terrified",
+                              "anime_step":9
                               }
                               ]
-                   }]
+                   },{
+                   "category_id": "88",
+                   "category_name": "Face Masks",
+                   "category_thumbnail": "88.png",
+                   "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip05/master/",
+                   "file_extension": "png",
+                   "animes": [{
+                              "anime_id": "1",
+                              "anime_name": "Venetian Carnival Mask",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "2",
+                              "anime_name": "Cat Mask",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "3",
+                              "anime_name": "Rabbit Mask",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "4",
+                              "anime_name": "Fox Mask",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id": "5",
+                              "anime_name": "Iron Mask",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "6",
+                              "anime_name": "Spiderman Mask",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "7",
+                              "anime_name": "Theatre Masks",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "8",
+                              "anime_name": "Scream Mask",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "9",
+                              "anime_name": "Clone Mask",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "10",
+                              "anime_name": "Captain America Mask",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id": "11",
+                              "anime_name": "Batman Mask",
+                              "anime_step":6
+                              },
+                              {
+                              "anime_id": "12",
+                              "anime_name": "Dart Vader Mask",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "13",
+                              "anime_name": "African Mask",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "14",
+                              "anime_name": "Chinese Dragon Mask",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id": "15",
+                              "anime_name": "Chinese Opera Mask",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "16",
+                              "anime_name": "Mexican Death Mask",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "17",
+                              "anime_name": "Flash Mask",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id": "18",
+                              "anime_name": "Guy Fawkes Mask",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id": "19",
+                              "anime_name": "Ganesha Mask",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id": "20",
+                              "anime_name": "Mask of the Pharaon",
+                              "anime_step":12
+                              }
+                              ]
+                   },{
+      "category_id": "1504",
+      "category_name": "Fruits and Berries",
+      "category_thumbnail": "1504.png",
+      "file_url": "https://raw.githubusercontent.com/ryanle-gamo/crazy_data_5/master/draw_for_children/",
+      "file_extension": "png",
+      "is_video": "false",
+      "animes": [{
+        "anime_id": "1",
+        "anime_name": "Peach",
+        "anime_step": 10
+      }, {
+        "anime_id": "2",
+        "anime_name": "Raspberry",
+        "anime_step": 13
+      }, {
+        "anime_id": "3",
+        "anime_name": "Garnet",
+        "anime_step": 12
+      }, {
+        "anime_id": "4",
+        "anime_name": "Grapes",
+        "anime_step": 17
+      }, {
+        "anime_id": "5",
+        "anime_name": "Mango",
+        "anime_step": 8
+      }, {
+        "anime_id": "6",
+        "anime_name": "Apricot",
+        "anime_step": 13
+      }, {
+        "anime_id": "7",
+        "anime_name": "Watermelon",
+        "anime_step": 11
+      }, {
+        "anime_id": "8",
+        "anime_name": "Cherries",
+        "anime_step": 11
+      }, {
+        "anime_id": "9",
+        "anime_name": "Apple",
+        "anime_step": 9
+      }, {
+        "anime_id": "10",
+        "anime_name": "Lemon",
+        "anime_step": 11
+      }, {
+        "anime_id": "11",
+        "anime_name": "Plum",
+        "anime_step": 9
+      }, {
+        "anime_id": "12",
+        "anime_name": "Banana",
+        "anime_step": 10
+      }, {
+        "anime_id": "13",
+        "anime_name": "Strawberry",
+        "anime_step": 10
+      }, {
+        "anime_id": "14",
+        "anime_name": "Pear",
+        "anime_step": 10
+      }, {
+        "anime_id": "15",
+        "anime_name": "Orange",
+        "anime_step": 11
+      }, {
+        "anime_id": "16",
+        "anime_name": "Cherry",
+        "anime_step": 11
+      }, {
+        "anime_id": "17",
+        "anime_name": "Kiwi",
+        "anime_step": 12
+      }, {
+        "anime_id": "18",
+        "anime_name": "Carambola",
+        "anime_step": 11
+      }, {
+        "anime_id": "19",
+        "anime_name": "Lime",
+        "anime_step": 10
+      }, {
+        "anime_id": "20",
+        "anime_name": "Blackcurrant",
+        "anime_step": 21
+      }]
+    },{
+    "category_id": "261",
+    "category_name": "Trees",
+    "category_thumbnail": "261.png",
+    "file_url": "https://raw.githubusercontent.com/ryanle-gamo/zip02/master/",
+    "file_extension": "png",
+    "animes": [{
+      "anime_id": "1",
+      "anime_name": "Walnut Tree",
+      "anime_step": 9
+    }, {
+      "anime_id": "2",
+      "anime_name": "Spring Tree",
+      "anime_step": 8
+    }, {
+      "anime_id": "3",
+      "anime_name": "Autumn Tree",
+      "anime_step": 10
+    }, {
+      "anime_id": "4",
+      "anime_name": "Old Oak",
+      "anime_step": 8
+    }, {
+      "anime_id": "5",
+      "anime_name": "Baobab",
+      "anime_step": 10
+    }, {
+      "anime_id": "6",
+      "anime_name": "Acacia",
+      "anime_step": 6
+    }, {
+      "anime_id": "7",
+      "anime_name": "Linden",
+      "anime_step": 9
+    }, {
+      "anime_id": "8",
+      "anime_name": "Palm",
+      "anime_step": 9
+    }, {
+      "anime_id": "9",
+      "anime_name": "Oak-Tree",
+      "anime_step": 9
+    }, {
+      "anime_id": "10",
+      "anime_name": "Orange Tree",
+      "anime_step": 11
+    }, {
+      "anime_id": "11",
+      "anime_name": "Birch",
+      "anime_step": 9
+    }, {
+      "anime_id": "12",
+      "anime_name": "Apple Tree",
+      "anime_step": 8
+    }, {
+      "anime_id": "13",
+      "anime_name": "Spruce",
+      "anime_step": 8
+    }, {
+      "anime_id": "14",
+      "anime_name": "Sakura",
+      "anime_step": 7
+    }, {
+      "anime_id": "15",
+      "anime_name": "Maple",
+      "anime_step": 7
+    }]
+  }
+                ]
 }
