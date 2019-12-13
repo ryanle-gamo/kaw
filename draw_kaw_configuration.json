@@ -4,8 +4,7 @@
     "is_admob":true,
     "isShowAfterSeconds":true,
     "version":"PRODUCTION",
-    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/ori/master/draw_kaw_people_category.json",
-    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/ori/master/draw_kaw_people_category_alpha.json",
-    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/ori/master/",
+    "category_url":"https://raw.githubusercontent.com/ryanle-gamo/kaw/master/draw_kaw_people_category.json",
+    "category_url_alpha":"https://raw.githubusercontent.com/ryanle-gamo/kaw/master/draw_kaw_people_category_alpha.json",
     "itune_url":"http://itunes.apple.com/app/id1126278121"
 }
