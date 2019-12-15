@@ -1,5 +1,220 @@
 {
 	"categories":[
+            {
+                    "category_id":"191215",
+                    "category_name":"Special Collections",
+                    "category_thumbnail":"191215.png",
+                    "file_url":"https://raw.githubusercontent.com/ryanle-gamo/kaw/",
+                    "file_extension":"png",
+                    "is_video":"false",
+                    "animes":[
+                              {
+                              "anime_id":"1",
+                              "anime_name":"Cactus",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"2",
+                              "anime_name":"Cat 01",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"3",
+                              "anime_name":"Cat 02",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id":"4",
+                              "anime_name":"Cat 03",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id":"5",
+                              "anime_name":"Cat 04",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id":"6",
+                              "anime_name":"Cat 05",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id":"7",
+                              "anime_name":"Cat 06",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id":"8",
+                              "anime_name":"Cat 07",
+                              "anime_step":14
+                              },
+                              {
+                              "anime_id":"9",
+                              "anime_name":"Cloud",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"10",
+                              "anime_name":"Dog",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id":"11",
+                              "anime_name":"Fox",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id":"12",
+                              "anime_name":"Hamster 01",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id":"13",
+                              "anime_name":"Hamster 02",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"14",
+                              "anime_name":"Hamster 03",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"15",
+                              "anime_name":"Hamster 04",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id":"16",
+                              "anime_name":"Hedgehog",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id":"17",
+                              "anime_name":"Ice Cream",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"18",
+                              "anime_name":"Llama",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id":"19",
+                              "anime_name":"Maki",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"20",
+                              "anime_name":"Muffin",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"21",
+                              "anime_name":"Nigiri 01",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"22",
+                              "anime_name":"Nigiri 02",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"23",
+                              "anime_name":"Nigiri 03",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"24",
+                              "anime_name":"OCtopus",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"25",
+                              "anime_name":"Owl",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id":"26",
+                              "anime_name":"Panda",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id":"27",
+                              "anime_name":"Pencil",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id":"28",
+                              "anime_name":"Penguin",
+                              "anime_step":11
+                              },
+                              {
+                              "anime_id":"29",
+                              "anime_name":"Pig 01",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"30",
+                              "anime_name":"Pig 02",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"31",
+                              "anime_name":"Pikachu",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"32",
+                              "anime_name":"Poop",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"33",
+                              "anime_name":"Rabbits",
+                              "anime_step":12
+                              },
+                              {
+                              "anime_id":"34",
+                              "anime_name":"Rainbow",
+                              "anime_step":9
+                              },
+                              {
+                              "anime_id":"35",
+                              "anime_name":"Shake",
+                              "anime_step":13
+                              },
+                              {
+                              "anime_id":"36",
+                              "anime_name":"Sheep",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"37",
+                              "anime_name":"Sun",
+                              "anime_step":7
+                              },
+                              {
+                              "anime_id":"38",
+                              "anime_name":"Unicorn",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"39",
+                              "anime_name":"Water Melon",
+                              "anime_step":10
+                              },
+                              {
+                              "anime_id":"40",
+                              "anime_name":"Whale",
+                              "anime_step":8
+                              },
+                              {
+                              "anime_id":"41",
+                              "anime_name":"Yeti",
+                              "anime_step":11
+                              }
+                        ]
+                    },
                   {
                     "category_id":"1100",
                     "category_name":"Hearts",
